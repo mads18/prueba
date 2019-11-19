@@ -27,13 +27,13 @@
 
         <div class="row">
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../img/0001.jpg">
-                    <img src="../img/0001.jpg" alt="Park">
+                <a class="lightbox" href="../img/0001.jpg" ">
+                    <img src="../img/0001.jpg" alt="Park" width="500" height="600">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../img/md.jpg">
-                    <img src="../img/md.jpg" alt="Bridge">
+                <a class="lightbox" href="../img/md.jpg"width="500" height="500">
+                    <img src="../img/md.jpg" alt="Bridge" width="500" height="600">
                 </a>
             </div>
             <div class="col-sm-12 col-md-4">
@@ -52,8 +52,8 @@
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/traffic.jpg">
-                    <img src="../images/traffic.jpg" alt="Traffic">
+                <a class="lightbox" href="../img/traffic.jpg">
+                    <img src="../img/traffic.jpg" alt="Traffic">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
