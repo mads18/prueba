@@ -28,12 +28,12 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <a class="lightbox" href="../img/0001.jpg">
-                    <img src="../images/0001.jpg" alt="Park">
+                    <img src="../img/0001.jpg" alt="Park">
                 </a>
             </div>
             <div class="col-sm-6 col-md-4">
-                <a class="lightbox" href="../images/bridge.jpg">
-                    <img src="../images/bridge.jpg" alt="Bridge">
+                <a class="lightbox" href="../img/md.jpg">
+                    <img src="../img/md.jpg" alt="Bridge">
                 </a>
             </div>
             <div class="col-sm-12 col-md-4">
